@@ -1,4 +1,4 @@
-#Wed Aug 08 10:26:46 ICT 2018
-base.0=E\:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\163
+#Wed Aug 08 15:50:23 ICT 2018
+base.0=E\:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\197
 path.0=classes.dex
 renamed.0=classes.dex

@@ -2,9 +2,13 @@ package com.example.ngothi.feebbackquality;
 
 import android.Manifest;
 import android.app.Dialog;
+import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.drawable.ColorDrawable;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -119,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
 
     Socket clientSocket;
 
-    public String tenFile, tenFile1, tenFileMoi = ""; // BIẾN LUU TEN ANH ĐÃ EDIT
+    public String tenFile, tenFile1, tenFileMoi = "", fileTest; // BIẾN LUU TEN ANH ĐÃ EDIT
 
     public String tenFileLoiLap;
     public String tenFileThuHoi;
@@ -182,8 +186,22 @@ public class MainActivity extends AppCompatActivity {
                                         msgToServer1 = tenFile + "-" + MaLoi + "-" + MaProcess ;
                                     loilap1 = false;
                                 }*/
-                            chonCa();
-
+                            //chonCa();
+                            //on upload button Click
+                            if(tenFile != null){
+                                // hien thi ProgessDialog de xu ly.
+                                dialog = ProgressDialog.show(MainActivity.this,"","Uploading File...",true);
+                                new Thread(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        //creating new thread to handle upload file to FTP server.
+                                        //uploadFile(selectedFilePath);
+                                        uploadFileToServer();
+                                    }
+                                }).start();
+                            }else{
+                                Toast.makeText(MainActivity.this,"Please choose a File First",Toast.LENGTH_SHORT).show();
+                            }
                             break;
                         } else {
                             Toast.makeText(MainActivity.this, "Bạn cần chọn lỗi", Toast.LENGTH_LONG).show();
@@ -521,7 +539,46 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     //--------------------------------------------------------------------------------------------------------
+    //Upload to server.
 
+    private boolean checkInternet() {
+        ConnectivityManager cm = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo netInfo = cm.getActiveNetworkInfo();
+        return netInfo != null && netInfo.isConnectedOrConnecting();
+    }
+
+    private void uploadFileToServer(){
+        if(!checkInternet()) {
+            Toast.makeText(MainActivity.this,"Internet chua duoc bat",Toast.LENGTH_LONG).show();
+        }
+        else {
+            //File file = new File(selectedFilePath);         // khoi tao file can upload di. voi duong dan la filePath.
+            // Bundle packageFromCaller = data.getBundleExtra("GoiTen");
+            // fileTest = packageFromCaller.getString("photoFileName");
+
+            final FtpUploadFile ftpconn = new FtpUploadFile(fileTest) {
+
+                @Override
+                protected void onPreExecute() {
+                    super.onPreExecute();
+                    //showProgressDialog();
+                }
+
+                @Override
+                protected void onPostExecute(Object o) {
+                    super.onPostExecute(o);
+                    if((boolean)o) {
+                        Toast.makeText(MainActivity.this,"successfully",Toast.LENGTH_LONG).show();
+                        dialog.dismiss();           // tat ProgessDialog. va hien thi thong bao.
+                    }
+                    else {
+                        Toast.makeText(MainActivity.this,"loi khong xac dinh",Toast.LENGTH_LONG).show();
+                    }
+                }
+            };
+            ftpconn.execute();
+        }
+    }
     //----------------------------------------------------------------------------------------------------------
 //=======================================CODE SU LY NUT BAM=================================================
     //------------------------------------------------------------------------------------------------------
@@ -610,7 +667,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void intentCamera() {
         Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-        Uri uri = Utils.getImageUri(photoFileName);
+        Uri uri = Utils.getPhotoFileUri(this, photoFileName);
         takePicture.putExtra(MediaStore.EXTRA_OUTPUT, uri);
         takePicture.putExtra("uri", uri);
         if (takePicture.resolveActivity(getPackageManager()) != null) {
@@ -666,12 +723,11 @@ public class MainActivity extends AppCompatActivity {
                 mButtonChonLoi.setBackground(getResources().getDrawable(android.R.color.holo_blue_light));
             }
 
-
-
             if (requestCode == IMAGE_EDIT) {
                 Kichhoat();
                 Bundle packageFromCaller = data.getBundleExtra("GoiTen");
                 tenFile = packageFromCaller.getString("photoFileName");
+                fileTest = tenFile;
                 // Toast.makeText(MainActivity.this,tenFile,Toast.LENGTH_LONG).show();
 
                 mImageViewLogo.setImageResource(0);
@@ -684,7 +740,7 @@ public class MainActivity extends AppCompatActivity {
 //                    Bitmap myBitmap1 = BitmapFactory.decodeFile(imgFile.getAbsolutePath());
 //                    mImageViewLogo.setImageBitmap(myBitmap1);
 //                }
-                tenFile = tenFile.substring(32);
+                 tenFile = tenFile.substring(32);
             }
             if (requestCode == LOI_LAP) {
                 Bundle packageFromCaller = data.getBundleExtra("GoiTen");
@@ -711,7 +767,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             if (requestCode == TAKE_FOTO) {
-                uriPhoto = Utils.getImageUri(photoFileName);
+                uriPhoto = Utils.getPhotoFileUri(this, photoFileName);
                 if (uriPhoto != null) {
                     imgPath = uriPhoto.getPath();
                 }

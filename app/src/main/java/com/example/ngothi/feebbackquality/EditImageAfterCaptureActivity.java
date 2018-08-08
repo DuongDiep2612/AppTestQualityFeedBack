@@ -10,6 +10,7 @@ import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
 import android.os.Handler;
 import android.provider.MediaStore;
 import android.util.Log;
@@ -110,15 +111,33 @@ public class EditImageAfterCaptureActivity extends Activity {
                 EditImageAfterCaptureActivity.this,
                 DsPhotoEditorActivity.class);
 
+        // get uri from file with name is photoFileName.
         editIntent.setData(Uri.fromFile(new File(photoFileName)));
 
         editIntent.putExtra(
                 DsPhotoEditorConstants.DS_PHOTO_EDITOR_API_KEY,
                 "ac4c3545a20670b3459f4f8574aa9cd5565d8b46");
 
+        // creat directory with name is UploadImage.
+
+        File mediaStorageDir = new File(Environment.getExternalStorageDirectory(), "UploadImage");
+
+        if (!mediaStorageDir.exists()) {
+            if (!mediaStorageDir.mkdirs()) {
+                Log.d("App", "failed to create directory");
+            }
+        }
+
         editIntent.putExtra(
                 DsPhotoEditorConstants.DS_PHOTO_EDITOR_OUTPUT_DIRECTORY,
                 "UploadImage");
+
+        // Disable some TOOL.
+        int[] toolsToHide = {DsPhotoEditorActivity.TOOL_ORIENTATION, DsPhotoEditorActivity.TOOL_CONTRAST,
+                                DsPhotoEditorActivity.TOOL_FRAME, DsPhotoEditorActivity.TOOL_FILTER,
+                                    DsPhotoEditorActivity.TOOL_WARMTH};
+
+        editIntent.putExtra(DsPhotoEditorConstants.DS_PHOTO_EDITOR_TOOLS_TO_HIDE, toolsToHide);
 
         startActivityForResult(editIntent,PIC_EDIT);
     }
@@ -133,9 +152,10 @@ public class EditImageAfterCaptureActivity extends Activity {
                 String path_uri = uri.getPath().toString();
                 //mMyViewImage.setOriginalBitmap(path_uri);
                 mMyViewImage.setBitmap(readBitmapAndScale(path_uri));
+
+                // Lấy lại đường dẫn file ảnh.
                 selectedImagePath = path_uri;
                 Log.e("Test", path_uri);
-
             }
         }
     }
@@ -163,9 +183,10 @@ public class EditImageAfterCaptureActivity extends Activity {
         return returnedBitmap;
     }
 
+    // không cần hàm này cũng được vì đường dẫn lưu file đã tạo.
     void saveImage(Bitmap bitmap) {
-        //String nameFile = Utils.nameFileFromCurrentTime() + ".jpg";
-        // selectedImagePath = "/storage/emulated/0/UploadImage/" + nameFile;
+        String nameFile = Utils.nameFileFromCurrentTime() + ".jpg";
+        selectedImagePath = "/storage/emulated/0/UploadImage/" + nameFile;
         Log.e(TAG, "saveImage: " + selectedImagePath);
         File file = new File(selectedImagePath);
         if (file.exists()) {
