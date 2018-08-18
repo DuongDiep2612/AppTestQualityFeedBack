@@ -36,6 +36,10 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_sticker_icon_10.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_sticker_ic_flip_white_18dp.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\sticker_ic_flip_white_18dp.png"
     },
@@ -92,12 +96,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_frame_icon_3.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellow_light.png.flat",
         "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\yellow_light.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_orientation_flip_vertical.png.flat",
@@ -112,24 +116,24 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_sticker_icon_9.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_khoanhloi.png.flat",
-        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\khoanhloi.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_sticker_icon_19.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_sticker_icon_19.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_khoanhloi.png.flat",
+        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\khoanhloi.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_btn_exposure.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_btn_exposure.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toyotalogo.jpg.flat",
-        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\toyotalogo.jpg"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_ds_color_dot_pink.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_color_dot_pink.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toyotalogo.jpg.flat",
+        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\toyotalogo.jpg"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -140,16 +144,16 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -172,12 +176,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_lut_10.jpg"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_color_dot_blue_dark.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_color_dot_blue_dark.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_sticker_icon_27.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_sticker_icon_27.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_color_dot_blue_dark.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_color_dot_blue_dark.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_color_dot_blue_light.png.flat",
@@ -188,24 +192,24 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_sticker_icon_14.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_color_plus.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_color_plus.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_sticker_icon_24.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_sticker_icon_24.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_frame_icon_15.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_frame_icon_15.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_sticker_icon_24.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_sticker_icon_24.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -244,12 +248,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_sticker_23.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_sticker_23.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_btn_orientation.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_btn_orientation.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_sticker_23.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_sticker_23.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -284,6 +288,10 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_frame_icon_12.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_image_listview.xml.flat",
+        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\layout\\info_image_listview.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_sticker_18.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_sticker_18.png"
     },
@@ -300,12 +308,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_frame_icon_7.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_frame_landscape_9.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_frame_landscape_9.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_btn_warmth.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_btn_warmth.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_frame_landscape_9.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_frame_landscape_9.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_frame_icon_11.png.flat",
@@ -332,12 +340,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_btn_pixelate.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_btn_pixelate.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_gui_lai.xml.flat",
         "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\layout\\gui_lai.xml"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_btn_pixelate.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_btn_pixelate.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_color_dot_orange.png.flat",
@@ -360,16 +368,16 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_btn_crop.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_color_dot_dark_gray.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_color_dot_dark_gray.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_lut_14.jpg.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_lut_14.jpg"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_color_dot_dark_gray.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_color_dot_dark_gray.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_color_dot_black.png.flat",
@@ -452,16 +460,16 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_color_dot_purple_dark.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_color_dot_green_light.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_color_dot_green_light.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_sticker_icon_15.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_sticker_icon_15.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_color_dot_green_light.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_color_dot_green_light.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_lut_35.jpg.flat",
@@ -520,24 +528,24 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_lut_23.jpg"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_frame_icon_4.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_frame_icon_4.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_frame_icon_4.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_frame_icon_4.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_search_view.xml"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -588,20 +596,20 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_ds_sticker_icon_26.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_sticker_icon_26.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_ds_sticker_icon_26.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_sticker_icon_26.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
@@ -636,12 +644,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_frame_landscape_12.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_frame_landscape_12.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_btn_text.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_btn_text.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_frame_landscape_12.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_frame_landscape_12.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -656,12 +664,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\layout\\layout_ds_photo_editor_filter_image_button.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_sticker_ic_close_white_18dp.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\sticker_ic_close_white_18dp.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_btn_vignette.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_btn_vignette.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_sticker_ic_close_white_18dp.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\sticker_ic_close_white_18dp.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_frame_16.png.flat",
@@ -716,20 +724,20 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_lut_13.jpg"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_sticker_icon_14.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_sticker_icon_14.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_ds_btn_round.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw720dp-mdpi-v13\\ds_btn_round.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_sticker_icon_14.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_sticker_icon_14.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_frame_5.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_frame_5.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_color_dot_cyan.png.flat",
@@ -840,24 +848,24 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_frame_icon_11.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_frame_icon_4.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_frame_icon_4.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_sticker_icon_26.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xhdpi-v4\\ds_sticker_icon_26.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_color_dot_orange.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_color_dot_orange.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_frame_icon_18.png.flat",
@@ -904,6 +912,10 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_btn_text.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13_ds_sticker_icon_12.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_sticker_icon_12.png"
     },
@@ -936,12 +948,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\anim\\abc_tooltip_enter.xml"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_sticker_icon_25.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_sticker_icon_25.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ds_sticker_icon_2.png.flat",
@@ -964,12 +976,12 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\layout\\activity_ds_photo_editor_sticker_text.xml"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_sticker_icon_8.png.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_sticker_icon_8.png"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_sticker_icon_8.png.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_sticker_icon_8.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13_ds_sticker_icon_7.png.flat",
@@ -980,28 +992,28 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_sticker_14.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ds_photo_editor_seekbar.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\layout\\fragment_ds_photo_editor_seekbar.xml"
-    },
-    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_sticker_27.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_sticker_27.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\anim\\abc_tooltip_exit.xml"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ds_photo_editor_seekbar.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\layout\\fragment_ds_photo_editor_seekbar.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1020,16 +1032,16 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_sticker_icon_20.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ds_photo_editor_main_bottom_bar.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\layout\\fragment_ds_photo_editor_main_bottom_bar.xml"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
-        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ds_photo_editor_main_bottom_bar.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\layout\\fragment_ds_photo_editor_main_bottom_bar.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ds_sticker_icon_31.png.flat",
@@ -1528,6 +1540,10 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\layout\\notification_action.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_ds_sticker_5.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-nodpi-v4\\ds_sticker_5.png"
     },
@@ -1816,6 +1832,10 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-sw600dp-mdpi-v13\\ds_sticker_icon_2.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_draw_eraser.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_draw_eraser.png"
     },
@@ -1946,6 +1966,10 @@
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_sticker_icon_16.png.flat",
@@ -2292,6 +2316,10 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxxhdpi-v4\\ds_frame_icon_17.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
@@ -2402,6 +2430,10 @@
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loader.png.flat",
+        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\loader.png"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ds_btn_crop.png.flat",
@@ -2964,8 +2996,16 @@
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\ds-photo-editor-sdk.aar\\6c11527ef936d814798661fb7ebcbca8\\res\\drawable-xxhdpi-v4\\ds_btn_draw.png"
     },
     {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
@@ -3974,5 +4014,9 @@
     {
         "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error.png.flat",
+        "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\drawable\\error.png"
     }
 ]

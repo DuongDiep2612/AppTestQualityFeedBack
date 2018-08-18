@@ -16,7 +16,7 @@ import java.lang.Override;
 public class MainActivity_ViewBinding implements Unbinder {
   private MainActivity target;
 
-  private View view2131165267;
+  private View view2131165268;
 
   @UiThread
   public MainActivity_ViewBinding(MainActivity target) {
@@ -30,7 +30,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.btn_chup_anh, "field 'mImageButtonChupAnh' and method 'launchCamera'");
     target.mImageButtonChupAnh = Utils.castView(view, R.id.btn_chup_anh, "field 'mImageButtonChupAnh'", ImageButton.class);
-    view2131165267 = view;
+    view2131165268 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -38,6 +38,7 @@ public class MainActivity_ViewBinding implements Unbinder {
       }
     });
     target.mButtonLap = Utils.findRequiredViewAsType(source, R.id.btn_lap, "field 'mButtonLap'", Button.class);
+    target.mButtonGet = Utils.findRequiredViewAsType(source, R.id.btn_get, "field 'mButtonGet'", Button.class);
     target.mButtonGui = Utils.findRequiredViewAsType(source, R.id.btn_gui, "field 'mButtonGui'", Button.class);
     target.mButtonThuHoi = Utils.findRequiredViewAsType(source, R.id.btn_thu_hoi, "field 'mButtonThuHoi'", Button.class);
     target.mButtonChonLoi = Utils.findRequiredViewAsType(source, R.id.btn_chon_loi, "field 'mButtonChonLoi'", Button.class);
@@ -59,6 +60,7 @@ public class MainActivity_ViewBinding implements Unbinder {
 
     target.mImageButtonChupAnh = null;
     target.mButtonLap = null;
+    target.mButtonGet = null;
     target.mButtonGui = null;
     target.mButtonThuHoi = null;
     target.mButtonChonLoi = null;
@@ -70,7 +72,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     target.mButtonPositionC2 = null;
     target.mImageViewLogo = null;
 
-    view2131165267.setOnClickListener(null);
-    view2131165267 = null;
+    view2131165268.setOnClickListener(null);
+    view2131165268 = null;
   }
 }

@@ -109,7 +109,7 @@
                 android:id="@+id/btn_chup_anh"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
-                android:layout_weight="0.4"
+                android:layout_weight="0.2"
                 android:background="@android:drawable/btn_default"
                 android:gravity="center"
                 android:src="@drawable/camera" />
@@ -131,6 +131,15 @@
                 android:background="@android:drawable/btn_default"
                 android:onClick="loilap"
                 android:text="Lặp" />
+
+            <Button
+                android:id="@+id/btn_get"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:background="@android:drawable/btn_default"
+                android:onClick="get"
+                android:text="GET" />
 
         </LinearLayout>
 

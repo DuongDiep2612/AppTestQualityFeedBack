@@ -15,9 +15,9 @@ import java.io.IOException;
 public class FtpUploadFile extends AsyncTask{
 
     // host, username, password.
-    private final String hostname = "192.168.1.109";    //"ftp.dlptest.com";  host hay cai ip cua server.
-    private final String userName = "diep";             //"dlpuser@dlptest.com";    tai khoan cua user.
-    private final String password = "1234";             //"3D6XZV9MKdhM5fF";    PassWord.
+    private final String hostname = "files.000webhost.com";                    //"ftp.dlptest.com";  host hay cai ip cua server.
+    private final String userName = "duchuynm";                             //"dlpuser@dlptest.com";    tai khoan cua user.
+    private final String password = "choivuive";                             //"3D6XZV9MKdhM5fF";    PassWord.
 
     private String filePath;
     private FTPClient ftpClient = null;
@@ -50,7 +50,7 @@ public class FtpUploadFile extends AsyncTask{
         ftpClient.setDataTimeout(60);
         try {
             ftpClient.setFileTransferMode(FTP.BINARY_FILE_TYPE);
-            //ftpClient.changeWorkingDirectory("/UploadImage/img");
+            ftpClient.changeWorkingDirectory("/public_html");
             ftpClient.setFileType(FTP.BINARY_FILE_TYPE,FTP.BINARY_FILE_TYPE);
         } catch (IOException e) {
             e.printStackTrace();

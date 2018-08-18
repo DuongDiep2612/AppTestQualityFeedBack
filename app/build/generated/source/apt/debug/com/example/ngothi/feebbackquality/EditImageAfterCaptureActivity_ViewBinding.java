@@ -13,9 +13,9 @@ import java.lang.Override;
 public class EditImageAfterCaptureActivity_ViewBinding implements Unbinder {
   private EditImageAfterCaptureActivity target;
 
-  private View view2131165276;
+  private View view2131165278;
 
-  private View view2131165234;
+  private View view2131165235;
 
   @UiThread
   public EditImageAfterCaptureActivity_ViewBinding(EditImageAfterCaptureActivity target) {
@@ -30,7 +30,7 @@ public class EditImageAfterCaptureActivity_ViewBinding implements Unbinder {
     View view;
     target.mMyViewImage = Utils.findRequiredViewAsType(source, R.id.my_view, "field 'mMyViewImage'", MyView.class);
     view = Utils.findRequiredView(source, R.id.btn_save_image, "method 'saveImage'");
-    view2131165276 = view;
+    view2131165278 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -38,7 +38,7 @@ public class EditImageAfterCaptureActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btnEditPhoto, "method 'editImage'");
-    view2131165234 = view;
+    view2131165235 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,9 +56,9 @@ public class EditImageAfterCaptureActivity_ViewBinding implements Unbinder {
 
     target.mMyViewImage = null;
 
-    view2131165276.setOnClickListener(null);
-    view2131165276 = null;
-    view2131165234.setOnClickListener(null);
-    view2131165234 = null;
+    view2131165278.setOnClickListener(null);
+    view2131165278 = null;
+    view2131165235.setOnClickListener(null);
+    view2131165235 = null;
   }
 }

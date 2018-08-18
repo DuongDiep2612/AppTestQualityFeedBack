@@ -12,9 +12,11 @@ import android.net.NetworkInfo;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
+import android.telephony.TelephonyManager;
 import android.view.SurfaceHolder;
 import android.view.Window;
 import android.view.WindowManager;
@@ -47,9 +49,22 @@ import java.io.PrintStream;
 import java.net.Socket;
 import java.net.URI;
 import java.net.UnknownHostException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 import android.database.Cursor;
 
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
 import com.bumptech.glide.Glide;
 
 import butterknife.BindView;
@@ -69,6 +84,9 @@ public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.btn_lap)
     Button mButtonLap;
+
+    @BindView(R.id.btn_get)
+    Button mButtonGet;
 
     @BindView(R.id.btn_gui)
     Button mButtonGui;
@@ -111,6 +129,7 @@ public class MainActivity extends AppCompatActivity {
     int LOI_LAP = 104;// hang so loi mButtonLap
     int THU_HOI = 106; // hang sothu hôi
     int CHON_LOI = 107;
+    int SRC_D = 108; // hang do search.
     //String savePath;
     // MyClientTask myClientTask;//
 
@@ -147,6 +166,14 @@ public class MainActivity extends AppCompatActivity {
         // myClientTask = new MyClientTask(SERVER_IP,8888,"Android");
         // myClientTask.execute();
         new Thread(new ClientThread()).start();
+        //========================================================================
+//        mButtonGet.setOnClickListener(new OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+//                startActivityForResult(intent, SRC_D);
+//            }
+//        });
         //========================================================================
         mButtonChonLoi.setOnClickListener(new OnClickListener() {
             @Override
@@ -196,6 +223,7 @@ public class MainActivity extends AppCompatActivity {
                                     public void run() {
                                         //creating new thread to handle upload file to FTP server.
                                         //uploadFile(selectedFilePath);
+                                        InsertImagedb_D("http://duchuynm.000webhostapp.com/insert.php");
                                         uploadFileToServer();
                                     }
                                 }).start();
@@ -582,6 +610,11 @@ public class MainActivity extends AppCompatActivity {
     //----------------------------------------------------------------------------------------------------------
 //=======================================CODE SU LY NUT BAM=================================================
     //------------------------------------------------------------------------------------------------------
+    public void get(View v){
+        Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+        startActivityForResult(intent, SRC_D);
+        Toast.makeText(MainActivity.this, "GET OK!", Toast.LENGTH_SHORT).show();
+    }
 
     public void ClickT1(View v) {
         if (dT1 == false)//nut chua duoc an
@@ -691,7 +724,6 @@ public class MainActivity extends AppCompatActivity {
     //-------------------------------------------------------------------------------------------------------
     public void loilap(View v) {
 
-
         Intent intent = new Intent(MainActivity.this, chonLoiLapActivity.class);
         startActivityForResult(intent, LOI_LAP);
     }
@@ -780,6 +812,86 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(intent, IMAGE_EDIT);
             }
         }
+    }
+
+    //----------------------------------gettime, getDate, getIMEI-------------------------------------------------
+
+    public String getTime_D() {
+        //String formatTime = "hhmmss";
+        //String getTime = df.format(date).toString();
+        DateFormat df = new SimpleDateFormat("hh:mm:ss"); //format time
+        String getTime = df.format(Calendar.getInstance().getTime()).toString();
+        Log.e("Time: ", getTime);
+        return getTime;
+    }
+
+    public String getDate_D() {
+        String formatDate = "dd/MM/yyyy";
+        SimpleDateFormat df = new SimpleDateFormat(formatDate);
+        Date date = Calendar.getInstance().getTime();
+        String getDate = df.format(date).toString();
+        Log.e("Date: ", getDate);
+        return getDate;
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public String getIMEI_D() {
+        String IMEI_Number_Holder;
+        TelephonyManager telephonyManager;
+        telephonyManager = (TelephonyManager) this.getSystemService(Context.TELEPHONY_SERVICE);
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return "";
+        }
+        IMEI_Number_Holder = telephonyManager.getImei().toString();
+        Log.e("IMEI: ", IMEI_Number_Holder);
+        return  IMEI_Number_Holder;
+    }
+
+    private void InsertImagedb_D(String url){
+        RequestQueue requestQueue = Volley.newRequestQueue(this);
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
+            new Response.Listener<String>() {
+                @Override
+                public void onResponse(String response) {
+                    if(response.trim().equals("success")){
+                        Toast.makeText(MainActivity.this, "Thanh Cong database", Toast.LENGTH_LONG).show();
+                    }
+                    else {
+                        Toast.makeText(MainActivity.this, "error database", Toast.LENGTH_LONG).show();
+                    }
+                }
+            },
+            new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                    Toast.makeText(MainActivity.this, "Xay ra loi database", Toast.LENGTH_LONG).show();
+                }
+            }
+        ){
+            @RequiresApi(api = Build.VERSION_CODES.O)
+            @Override
+            protected Map<String, String> getParams() throws AuthFailureError {
+                Map<String, String> params = new HashMap<>();
+                // day du lieu len
+                params.put("Date_D", getDate_D());
+                params.put("Time_D", getTime_D());
+                params.put("IMEI_D", getIMEI_D());
+                params.put("ML1_D", MaLoi);
+                params.put("ML2_D", MaProcess);
+                params.put("ML3_D", "test");
+                params.put("ImageName_D",tenFile);
+                params.put("Count_D", "0");
+                return params;
+            }
+        };
+        requestQueue.add(stringRequest);
     }
 
     //==================================KET THUC CODE SU LY SU KIEN===============================================
