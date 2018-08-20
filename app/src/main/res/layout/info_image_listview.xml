@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
 
     <LinearLayout
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:weightSum="10"
@@ -21,15 +19,15 @@
 
         <ImageView
             android:id="@+id/db_img_d"
-            android:layout_width="150dp"
-            android:layout_height="110dp"
-            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="3"
             android:cropToPadding="false" />
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="110dp"
-            android:layout_weight="7"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6.5"
             android:orientation="vertical"
             android:weightSum="9">
 
@@ -66,6 +64,13 @@
                 android:textAlignment="viewStart"
                 android:textSize="16sp" />
         </LinearLayout>
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/ic_vert_black"
+            android:backgroundTint="@color/background_color"/>
 
     </LinearLayout>
 

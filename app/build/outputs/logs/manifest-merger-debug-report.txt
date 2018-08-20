@@ -1,269 +1,269 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd46ce3d32e79eb12d1422ba1caff10c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c790a1ef2b04741f87dbc87331a60e97\AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8d50be9bd80f366bfccc1802549ed3dd\AndroidManifest.xml:2:1-11:12
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\ee5c57d1c34c61aca5ae5439ddbf6d5a\AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\24e20c3ef5632fda0bb8fa69d0c0abeb\AndroidManifest.xml:15:1-21:12
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2cc71ea76da1931b0579eb95ca6db8c2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ae736308449fdfd7dba9348308b9dbed\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d9edcfc4912b55e2d4c023753fb1df31\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a9a351f03cdc0c896a48bcf21b291f51\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\213aa29d8dff57ca833c5f1e2bd748f2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9d63aeeae814a51c274e23c8e9d1ef3a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1e50c3d6b453d75e5ca6046d65ff0bdf\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\172079a55e1fb833e0c63c85cae53da3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35beffbad1574cf30e4eb04baddcae1d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65a5f60bc44e35a272579cecd37a6265\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\30c5298059e47b8aeca255eee6aa8afb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\7d0ca08a1db7d99ec9b799cfbb6e30ee\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\01e9874ec595176bc86cf86a2d1bde88\AndroidManifest.xml:2:1-11:12
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\04363be4815aa894d2eaa9dd9116642c\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\4b8bafa97d97a51e35621929156155ce\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e6a32c874aad7152dea61e9c00e8fe46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86a1f77a4dcbfcd0af3ba78cd1c53db1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7de53b5f4f85570d140552e43ceabf53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\90ebf8d6f919ed38f818969058cff0e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ea0e2de399aee9fcbc47419145f4d814\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ec987c78474cc3b8d5a1fc5d089ec278\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33a032d2f83cc5aa1c1fcde575fb7761\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\87a587b3d0cbdb7465969bbb76a12e57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd2559d7d4de1933e43306f36c00e1f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc348e689f84a7e3cbd2df04ecf2fa32\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:3:5-49
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:1-78:12
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:1-78:12
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:5:5-65
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:5:22-62
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:5:22-62
 uses-feature#android.hardware.camera
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:7:5-60
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:7:5-60
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:7:19-57
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:7:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:8:5-70
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:8:5-70
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:8:19-67
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:8:19-67
 uses-permission#android.permission.INTERNET
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:10:5-67
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:11:5-67
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:11:5-67
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:11:5-67
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:11:5-79
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:13:5-79
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:13:5-79
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:13:5-79
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:12:5-76
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:12:22-73
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:12:22-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:13:5-80
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:13:22-77
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:13:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:14:5-81
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:12:5-81
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:12:5-81
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:14:5-81
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:12:5-81
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:14:22-78
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:15:5-75
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:15:5-75
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:15:22-72
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:15:22-72
 application
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:17:5-76:19
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8d50be9bd80f366bfccc1802549ed3dd\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8d50be9bd80f366bfccc1802549ed3dd\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\ee5c57d1c34c61aca5ae5439ddbf6d5a\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\ee5c57d1c34c61aca5ae5439ddbf6d5a\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:29:5-20
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:17:5-76:19
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\01e9874ec595176bc86cf86a2d1bde88\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\01e9874ec595176bc86cf86a2d1bde88\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\04363be4815aa894d2eaa9dd9116642c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\04363be4815aa894d2eaa9dd9116642c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:20:9-41
 	android:largeHeap
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:21:9-33
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:21:9-33
 	android:icon
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:19:9-43
 	android:allowBackup
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:18:9-35
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:23:9-40
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:23:9-40
 activity#com.example.ngothi.feebbackquality.MainActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:24:9-33:20
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:24:9-33:20
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:26:13-50
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:26:13-50
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:27:13-56
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:27:13-56
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:31:27-74
 activity#com.example.ngothi.feebbackquality.EditImageAfterCaptureActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:34:9-37:59
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:34:9-37:59
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:36:13-50
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:36:13-50
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:37:13-56
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:37:13-56
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:35:13-58
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:35:13-58
 activity#com.example.ngothi.feebbackquality.CameraMain
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:38:9-41:59
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:38:9-41:59
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:40:13-50
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:40:13-50
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:41:13-56
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:41:13-56
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:39:13-39
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:39:13-39
 activity#com.example.ngothi.feebbackquality.chonLoiLapActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:42:9-45:59
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:42:9-45:59
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:44:13-50
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:44:13-50
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:45:13-56
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:45:13-56
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:43:13-47
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:43:13-47
 activity#com.example.ngothi.feebbackquality.thuhoi_activity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:46:9-49:59
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:46:9-49:59
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:48:13-50
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:48:13-50
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:49:13-56
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:47:13-44
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:47:13-44
 activity#com.example.ngothi.feebbackquality.ChonloiActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:50:9-53:59
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:50:9-53:59
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:52:13-50
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:52:13-50
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:53:13-56
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:53:13-56
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:51:13-44
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:51:13-44
 activity#com.dsphotoeditor.sdk.activity.DsPhotoEditorActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:54:9-57:69
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:54:9-57:69
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:56:13-49
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:56:13-49
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:57:13-66
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:57:13-66
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:55:13-80
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:55:13-80
 activity#com.dsphotoeditor.sdk.activity.DsPhotoEditorStickerActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:58:9-61:69
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:58:9-61:69
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:60:13-49
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:60:13-49
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:61:13-66
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:61:13-66
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:59:13-87
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:59:13-87
 activity#com.dsphotoeditor.sdk.activity.DsPhotoEditorTextActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:62:9-66:55
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:62:9-66:55
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:64:13-49
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:64:13-49
 	android:windowSoftInputMode
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:66:13-52
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:66:13-52
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:65:13-66
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:65:13-66
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:63:13-84
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:63:13-84
 activity#com.dsphotoeditor.sdk.activity.DsPhotoEditorCropActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:67:9-70:69
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:67:9-70:69
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:69:13-49
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:70:13-66
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:70:13-66
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:68:13-84
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:68:13-84
 activity#com.dsphotoeditor.sdk.activity.DsPhotoEditorDrawActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:71:9-74:69
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:71:9-74:69
 	android:screenOrientation
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:73:13-49
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:73:13-49
 	android:theme
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:74:13-66
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:74:13-66
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:72:13-84
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:72:13-84
 activity#com.example.ngothi.feebbackquality.SearchActivity
-ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:75:9-61
+ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:75:9-61
 	android:name
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml:75:19-49
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml:75:19-49
 uses-sdk
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd46ce3d32e79eb12d1422ba1caff10c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd46ce3d32e79eb12d1422ba1caff10c\AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c790a1ef2b04741f87dbc87331a60e97\AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c790a1ef2b04741f87dbc87331a60e97\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8d50be9bd80f366bfccc1802549ed3dd\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8d50be9bd80f366bfccc1802549ed3dd\AndroidManifest.xml:5:5-7:41
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:7:5-9:41
-MERGED from [:ds-photo-editor-sdk:] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\6c11527ef936d814798661fb7ebcbca8\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\ee5c57d1c34c61aca5ae5439ddbf6d5a\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\ee5c57d1c34c61aca5ae5439ddbf6d5a\AndroidManifest.xml:7:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\24e20c3ef5632fda0bb8fa69d0c0abeb\AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\24e20c3ef5632fda0bb8fa69d0c0abeb\AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2cc71ea76da1931b0579eb95ca6db8c2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2cc71ea76da1931b0579eb95ca6db8c2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ae736308449fdfd7dba9348308b9dbed\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ae736308449fdfd7dba9348308b9dbed\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d9edcfc4912b55e2d4c023753fb1df31\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d9edcfc4912b55e2d4c023753fb1df31\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a9a351f03cdc0c896a48bcf21b291f51\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a9a351f03cdc0c896a48bcf21b291f51\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\213aa29d8dff57ca833c5f1e2bd748f2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\213aa29d8dff57ca833c5f1e2bd748f2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9d63aeeae814a51c274e23c8e9d1ef3a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9d63aeeae814a51c274e23c8e9d1ef3a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1e50c3d6b453d75e5ca6046d65ff0bdf\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1e50c3d6b453d75e5ca6046d65ff0bdf\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\172079a55e1fb833e0c63c85cae53da3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\172079a55e1fb833e0c63c85cae53da3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35beffbad1574cf30e4eb04baddcae1d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35beffbad1574cf30e4eb04baddcae1d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65a5f60bc44e35a272579cecd37a6265\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65a5f60bc44e35a272579cecd37a6265\AndroidManifest.xml:20:5-44
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\30c5298059e47b8aeca255eee6aa8afb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\30c5298059e47b8aeca255eee6aa8afb\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\7d0ca08a1db7d99ec9b799cfbb6e30ee\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\7d0ca08a1db7d99ec9b799cfbb6e30ee\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\01e9874ec595176bc86cf86a2d1bde88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\01e9874ec595176bc86cf86a2d1bde88\AndroidManifest.xml:5:5-7:41
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:7:5-9:41
+MERGED from [:ds-photo-editor-sdk:] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\ds-photo-editor-sdk.aar\9b800b1f7d0091d36a95cbc6ff848516\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\04363be4815aa894d2eaa9dd9116642c\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\04363be4815aa894d2eaa9dd9116642c\AndroidManifest.xml:7:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\4b8bafa97d97a51e35621929156155ce\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\4b8bafa97d97a51e35621929156155ce\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e6a32c874aad7152dea61e9c00e8fe46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e6a32c874aad7152dea61e9c00e8fe46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86a1f77a4dcbfcd0af3ba78cd1c53db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86a1f77a4dcbfcd0af3ba78cd1c53db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7de53b5f4f85570d140552e43ceabf53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7de53b5f4f85570d140552e43ceabf53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\90ebf8d6f919ed38f818969058cff0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\90ebf8d6f919ed38f818969058cff0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ea0e2de399aee9fcbc47419145f4d814\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ea0e2de399aee9fcbc47419145f4d814\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ec987c78474cc3b8d5a1fc5d089ec278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ec987c78474cc3b8d5a1fc5d089ec278\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33a032d2f83cc5aa1c1fcde575fb7761\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33a032d2f83cc5aa1c1fcde575fb7761\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\87a587b3d0cbdb7465969bbb76a12e57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\87a587b3d0cbdb7465969bbb76a12e57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd2559d7d4de1933e43306f36c00e1f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd2559d7d4de1933e43306f36c00e1f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc348e689f84a7e3cbd2df04ecf2fa32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc348e689f84a7e3cbd2df04ecf2fa32\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		ADDED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
-		INJECTED from E:\DATA\AAAAAAEEEE\DataImportant\StuCompany\QF20180525\QF20180525\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AppTestQualityFeedBack\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\9122e33a07f296adfd1c0adc4bc9150e\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\69147be3e64f15ec8bce3aa96458bde2\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\duong\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\f2740897352d0a706058105c3a82b589\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\OS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\e2a11e6a8b0b186d42a6b02306f47f72\AndroidManifest.xml:26:9-47

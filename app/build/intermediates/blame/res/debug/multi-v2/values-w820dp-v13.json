@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\AppTestQualityFeedBack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\AndroidStudioProjects\\AppTestQualityFeedBack\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

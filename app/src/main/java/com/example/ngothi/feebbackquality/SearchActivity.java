@@ -66,7 +66,10 @@ public class SearchActivity extends AppCompatActivity {
         // imageListViewCustoms.add(new ImageListViewCustom(R.drawable.blue_drak, "test", "test", "12000016082018"));
 
         // khoi tao Adapter.
-        ImageAdapter = new ImageListViewAdapter(this, R.layout.info_image_listview, imageListViewCustoms);
+        ImageAdapter = new ImageListViewAdapter(
+                this,
+                R.layout.info_image_listview,
+                imageListViewCustoms);
         lvImage.setAdapter(ImageAdapter);
 
         // btn Search.

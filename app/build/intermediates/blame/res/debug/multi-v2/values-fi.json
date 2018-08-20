@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\AppTestQualityFeedBack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
-                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
-                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\OS\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ec987c78474cc3b8d5a1fc5d089ec278\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1930",
                         "endColumns": "100",
                         "endOffsets": "2026"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\30c5298059e47b8aeca255eee6aa8afb\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
                     }
                 }
             ]

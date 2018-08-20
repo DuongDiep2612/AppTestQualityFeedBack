@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\DATA\\AAAAAAEEEE\\DataImportant\\StuCompany\\QF20180525\\QF20180525\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\AppTestQualityFeedBack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd46ce3d32e79eb12d1422ba1caff10c\\res\\values-bn\\values-bn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,1919",
-                        "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
-                        "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,1996"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\duong\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9d63aeeae814a51c274e23c8e9d1ef3a\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\OS\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ec987c78474cc3b8d5a1fc5d089ec278\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "2001",
                         "endColumns": "100",
                         "endOffsets": "2097"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\30c5298059e47b8aeca255eee6aa8afb\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,1919",
+                        "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
+                        "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,1996"
                     }
                 }
             ]
