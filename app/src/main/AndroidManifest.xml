@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.ngothi.feebbackquality">
 
     <uses-permission android:name="android.permission.CAMERA" />
@@ -73,6 +74,12 @@
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Holo.NoActionBar" />
         <activity android:name=".SearchActivity"></activity>
+        <activity
+            android:name=".SearchActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Holo.NoActionBar"
+            tools:ignore="DuplicateActivity" />
+
     </application>
 
 </manifest>

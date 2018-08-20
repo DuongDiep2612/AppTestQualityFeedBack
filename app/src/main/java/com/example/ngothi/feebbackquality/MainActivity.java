@@ -182,6 +182,16 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(intent, CHON_LOI);
             }
         });
+
+        mButtonGet.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(
+                        MainActivity.this,
+                        SearchActivity.class);
+                startActivity(i);
+            }
+        });
         //==========================================================================
         mButtonGui.setOnClickListener(new OnClickListener() {// chuong trinh mButtonGui
             @Override
